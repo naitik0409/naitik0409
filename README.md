@@ -1,16 +1,33 @@
+````md
 <div align="center">
 
-<img src="./assets/banner.gif" width="100%" />
+<img 
+src="./assets/banner.gif" 
+width="100%" 
+style="border-radius:25px;
+box-shadow: 0px 0px 40px rgba(0,255,255,0.35);" 
+/>
 
-# Naitik
+<br><br>
 
-### AI Engineer • Automation Architect • Futuristic Systems Developer
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=38&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=NAITIK;AI+Engineer;Automation+Architect;Futuristic+Systems+Developer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+AI+Assistants;Developing+Automation+Systems;Creating+Voice+AI;Full+Stack+AI+Developer;Future+Technology+Builder" />
+<br><br>
 
-<br/>
+<img 
+src="./assets/profile.gif" 
+width="180"
+style="border-radius:50%;
+box-shadow:0px 0px 30px rgba(0,255,255,0.5);" 
+/>
 
-<img src="./assets/profile.gif" width="180" />
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=naitik0409&style=for-the-badge&color=00F7FF" />
+
+<img src="https://img.shields.io/github/followers/naitik0409?style=for-the-badge&color=00F7FF&labelColor=0D1117" />
+
+<img src="https://img.shields.io/github/stars/naitik0409?style=for-the-badge&color=00F7FF&labelColor=0D1117" />
 
 </div>
 
@@ -36,7 +53,7 @@ class Naitik:
 
     def build(self):
         return "Building futuristic AI systems ⚡"
-```
+````
 
 ---
 
@@ -45,18 +62,23 @@ class Naitik:
 <div align="center">
 
 ## Languages
+
 <img src="https://skillicons.dev/icons?i=python,js,html,css" />
 
 ## Frontend
+
 <img src="https://skillicons.dev/icons?i=react,nextjs" />
 
 ## Backend
+
 <img src="https://skillicons.dev/icons?i=nodejs,fastapi,express" />
 
 ## Database
+
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
 
 ## Tools
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
 
 </div>
@@ -67,11 +89,11 @@ class Naitik:
 
 <div align="center">
 
-| AI Engineering | Automation | Full Stack Development |
-|---|---|---|
-| Voice AI Systems | Workflow Automation | Modern Web Apps |
-| LLM Integrations | Smart Assistants | Backend Architecture |
-| AI Workflows | Productivity Systems | API Development |
+| AI Engineering   | Automation           | Full Stack Development |
+| ---------------- | -------------------- | ---------------------- |
+| Voice AI Systems | Workflow Automation  | Modern Web Apps        |
+| LLM Integrations | Smart Assistants     | Backend Architecture   |
+| AI Workflows     | Productivity Systems | API Development        |
 
 </div>
 
@@ -97,11 +119,6 @@ Exploring:
   - Automation Frameworks
   - Future Technologies
 ```
-
-</td>
-
-</tr>
-</table>
 
 ---
 
@@ -154,3 +171,4 @@ Exploring:
 ### ⚡ Building the Future with AI
 
 </div>
+```
