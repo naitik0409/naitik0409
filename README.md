@@ -1,130 +1,80 @@
-````md
+```md id="3rl0r6"
 <div align="center">
 
 <img 
 src="./assets/banner.gif" 
 width="100%" 
-style="border-radius:25px;
-box-shadow: 0px 0px 40px rgba(0,255,255,0.35);" 
+style="border-radius:24px;
+box-shadow:0 0 45px rgba(0,255,255,0.35);" 
 />
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=38&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=NAITIK;AI+Engineer;Automation+Architect;Futuristic+Systems+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=42&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=950&lines=NAITIK;AI+Engineer;Automation+Architect;Building+Futuristic+Systems" />
 
 <br><br>
 
 <img 
-src="./assets/profile.gif" 
-width="180"
+src="./assets/profile.gif"
+width="190"
 style="border-radius:50%;
-box-shadow:0px 0px 30px rgba(0,255,255,0.5);" 
+border:4px solid rgba(0,255,255,0.5);
+box-shadow:0 0 35px rgba(0,255,255,0.45);" 
 />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=naitik0409&style=for-the-badge&color=00F7FF" />
+<img src="https://komarev.com/ghpvc/?username=naitik0409&style=for-the-badge&color=00F7FF"/>
 
-<img src="https://img.shields.io/github/followers/naitik0409?style=for-the-badge&color=00F7FF&labelColor=0D1117" />
+<img src="https://img.shields.io/github/followers/naitik0409?style=for-the-badge&color=00F7FF&labelColor=0D1117"/>
 
-<img src="https://img.shields.io/github/stars/naitik0409?style=for-the-badge&color=00F7FF&labelColor=0D1117" />
+<img src="https://img.shields.io/github/stars/naitik0409?style=for-the-badge&color=00F7FF&labelColor=0D1117"/>
 
 </div>
 
 ---
-
-# 🧠 About Me
-
-```python
-class Naitik:
-
-    def __init__(self):
-
-        self.role = "AI Engineer"
-
-        self.skills = {
-            "Languages": ["Python", "JavaScript"],
-            "Frontend": ["React"],
-            "Backend": ["Node.js", "FastAPI"],
-            "AI": ["LLMs", "Voice AI", "Automation"],
-            "Database": ["MongoDB"],
-            "Tools": ["Git", "GitHub", "Linux"]
-        }
-
-    def build(self):
-        return "Building futuristic AI systems ⚡"
-````
-
----
-
-# ⚡ Tech Stack
 
 <div align="center">
 
-## Languages
+# ⚡ About Me
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css" />
+AI Engineer focused on building futuristic systems, intelligent automation, voice AI, and modern full stack applications.
 
-## Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs" />
-
-## Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,express" />
-
-## Database
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-## Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
+Passionate about creating AI-powered experiences and next-generation technology ecosystems.
 
 </div>
 
 ---
+
+<div align="center">
+
+# ⚡ Tech Ecosystem
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=python,js,react,nextjs,nodejs,fastapi,mongodb,mysql,git,github,vscode,linux,docker" />
+
+</div>
+
+---
+
+<div align="center">
 
 # 💻 Development Focus
 
-<div align="center">
-
-| AI Engineering   | Automation           | Full Stack Development |
-| ---------------- | -------------------- | ---------------------- |
-| Voice AI Systems | Workflow Automation  | Modern Web Apps        |
-| LLM Integrations | Smart Assistants     | Backend Architecture   |
-| AI Workflows     | Productivity Systems | API Development        |
+| AI Engineering | Automation | Full Stack |
+|---|---|---|
+| Voice AI Systems | Workflow Automation | Modern Web Apps |
+| LLM Integrations | Smart Assistants | Backend Architecture |
+| AI Workflows | Productivity Systems | API Development |
 
 </div>
 
 ---
 
-# 🛠 Current Interests
-
-```yaml
-AI Engineering:
-  - Intelligent Assistants
-  - Voice AI
-  - LLM Applications
-  - AI Automation
-
-Development:
-  - Backend Systems
-  - Full Stack Applications
-  - API Architectures
-  - Developer Tools
-
-Exploring:
-  - AI Agents
-  - Automation Frameworks
-  - Future Technologies
-```
-
----
+<div align="center">
 
 # 📊 GitHub Analytics
-
-<div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=naitik0409&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000"/>
 
@@ -134,9 +84,9 @@ Exploring:
 
 ---
 
-# 🔥 GitHub Streak
-
 <div align="center">
+
+# 🔥 GitHub Streak
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=naitik0409&theme=tokyonight&hide_border=true&background=00000000"/>
 
@@ -144,9 +94,9 @@ Exploring:
 
 ---
 
-# 📈 Contribution Graph
-
 <div align="center">
+
+# 📈 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=naitik0409&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
 
@@ -154,9 +104,9 @@ Exploring:
 
 ---
 
-# 🌐 Connect With Me
-
 <div align="center">
+
+# 🌐 Connect
 
 <a href="https://github.com/naitik0409">
 <img src="https://skillicons.dev/icons?i=github" />
@@ -168,7 +118,7 @@ Exploring:
 
 <div align="center">
 
-### ⚡ Building the Future with AI
+### ⚡ Building The Future With AI
 
 </div>
 ```
