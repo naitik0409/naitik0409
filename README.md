@@ -89,33 +89,85 @@ Passionate about creating AI-powered experiences and next-generation technology 
 
 ---
 
+html
 <h1 align="center">🌐 Socials</h1>
 
 <div align="center">
 
+<table>
+<tr>
+
+<td align="center">
 <a href="https://www.instagram.com/naitikdevsai/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" width="55" />
+<img src="https://skillicons.dev/icons?i=instagram" width="55"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+<br>
 
+<b>@naitikdevsai</b>
+
+<br>
+
+Professional Profile
+
+</td>
+
+<td width="50"></td>
+
+<td align="center">
 <a href="https://www.instagram.com/naitik__0409/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" width="55" />
+<img src="https://skillicons.dev/icons?i=instagram" width="55"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+<br>
 
+<b>@naitik__0409</b>
+
+<br>
+
+Personal Profile
+
+</td>
+
+<td width="50"></td>
+
+<td align="center">
 <a href="https://www.facebook.com/profile.php?id=61564805525655" target="_blank">
-  <img src="https://skillicons.dev/icons?i=facebook" width="55" />
+<img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="55"/>
 </a>
 
-&nbsp;&nbsp;&nbsp;
+<br>
 
+<b>Facebook</b>
+
+<br>
+
+Social Profile
+
+</td>
+
+<td width="50"></td>
+
+<td align="center">
 <a href="https://github.com/naitik0409" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="55" />
+<img src="https://skillicons.dev/icons?i=github" width="55"/>
 </a>
+
+<br>
+
+<b>GitHub</b>
+
+<br>
+
+Developer Profile
+
+</td>
+
+</tr>
+</table>
 
 </div>
+
 
 ---
 
