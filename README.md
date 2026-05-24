@@ -57,7 +57,7 @@ Passionate about creating AI-powered experiences and next-generation technology 
 
 ---
 
-html id="2q8yca"
+
 <h1 align="center">📊 GitHub Analytics</h1>
 
 <div align="center">
