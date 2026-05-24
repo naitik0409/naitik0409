@@ -63,34 +63,40 @@ class Naitik:
 
 ---
 
-# 🚀 Featured Projects
+# 💻 Development Focus
 
-<table>
-<tr>
+<div align="center">
 
-<td width="50%">
+| AI Engineering | Automation | Full Stack Development |
+|---|---|---|
+| Voice AI Systems | Workflow Automation | Modern Web Apps |
+| LLM Integrations | Smart Assistants | Backend Architecture |
+| AI Workflows | Productivity Systems | API Development |
 
-## 🤖 MARK-14
+</div>
 
-Advanced AI assistant system with:
+---
 
-- Voice interaction
-- Smart automation
-- Modern AI workflows
-- Productivity systems
+# 🛠 Current Interests
 
-</td>
+```yaml
+AI Engineering:
+  - Intelligent Assistants
+  - Voice AI
+  - LLM Applications
+  - AI Automation
 
-<td width="50%">
+Development:
+  - Backend Systems
+  - Full Stack Applications
+  - API Architectures
+  - Developer Tools
 
-## 🧠 JARVIS v0.2
-
-Desktop AI ecosystem featuring:
-
-- Voice AI
-- LLM integrations
-- Automation architecture
-- AI-powered workflows
+Exploring:
+  - AI Agents
+  - Automation Frameworks
+  - Future Technologies
+```
 
 </td>
 
