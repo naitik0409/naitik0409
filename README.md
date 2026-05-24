@@ -37,7 +37,7 @@ Passionate about creating AI-powered experiences and next-generation technology 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,react,nextjs,nodejs,fastapi,mongodb,mysql,git,github,vscode,linux,docker" />
+<img src="https://skillicons.dev/icons?i=python,js,react,,nodejs,fastapi,mysql,git,github,vscode,docker" />
 
 </div>
 
