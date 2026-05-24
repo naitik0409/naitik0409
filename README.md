@@ -78,7 +78,7 @@ Passionate about creating AI-powered experiences and next-generation technology 
 
 ---
 
-html
+
 <h1 align="center">🌐 Socials</h1>
 
 <div align="center">
