@@ -89,6 +89,36 @@ Passionate about creating AI-powered experiences and next-generation technology 
 
 ---
 
+<h1 align="center">🌐 Socials</h1>
+
+<div align="center">
+
+<a href="https://www.instagram.com/naitikdevsai/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" width="55" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.instagram.com/naitik__0409/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" width="55" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://www.facebook.com/profile.php?id=61564805525655" target="_blank">
+  <img src="https://skillicons.dev/icons?i=facebook" width="55" />
+</a>
+
+&nbsp;&nbsp;&nbsp;
+
+<a href="https://github.com/naitik0409" target="_blank">
+  <img src="https://skillicons.dev/icons?i=github" width="55" />
+</a>
+
+</div>
+
+---
+
 <h1 align="center">🌐 Connect</h1>
 
 <div align="center">
