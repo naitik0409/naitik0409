@@ -17,8 +17,6 @@
 
 <img src="https://img.shields.io/github/followers/naitik0409?style=for-the-badge&color=00F7FF&labelColor=0D1117" />
 
-<img src="https://img.shields.io/github/stars/naitik0409?style=for-the-badge&color=00F7FF&labelColor=0D1117" />
-
 </div>
 
 ---
@@ -63,9 +61,9 @@ Passionate about creating AI-powered experiences and next-generation technology 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=naitik0409&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=naitik0409&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naitik0409&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naitik0409&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -75,7 +73,7 @@ Passionate about creating AI-powered experiences and next-generation technology 
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=naitik0409&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=naitik0409&theme=tokyonight&hide_border=true" />
 
 </div>
 
