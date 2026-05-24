@@ -1,4 +1,4 @@
-```md
+
 <div align="center">
 
 <img src="./assets/banner.gif" width="100%" />
@@ -106,4 +106,3 @@ Passionate about creating AI-powered experiences and next-generation technology 
 ### ⚡ Building The Future With AI
 
 </div>
-```
