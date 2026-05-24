@@ -5,7 +5,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=32&duration=3000&pause=1200&color=00F7FF&center=true&vCenter=true&width=850&lines=Naitik;AI+Engineer;Automation+Developer;Building+Future+Technology" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=28&duration=3500&pause=1500&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Automation+Systems;Full+Stack+Developer" />
 
 <br><br>
 
