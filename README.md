@@ -57,15 +57,38 @@ Passionate about creating AI-powered experiences and next-generation technology 
 
 ---
 
+html id="2q8yca"
 <h1 align="center">📊 GitHub Analytics</h1>
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=naitik0409&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=naitik0409&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naitik0409&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naitik0409&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 
 </div>
+
+---
+
+<h1 align="center">🔥 GitHub Streak</h1>
+
+<div align="center">
+
+<img width="70%" src="https://streak-stats.demolab.com?user=naitik0409&theme=tokyonight&hide_border=true&background=0d1117" />
+
+</div>
+
+---
+
+<h1 align="center">📈 Contribution Graph</h1>
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=naitik0409&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=00F7FF&line=00F7FF&point=FFFFFF" />
+
+</div>
+
+
 
 ---
 
